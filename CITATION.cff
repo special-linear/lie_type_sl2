@@ -1,0 +1,17 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Lie_type_sl2
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Andrei
+    family-names: Smolensky
+    email: andrei.smolensky@gmail.com
+repository-code: 'https://github.com/special-linear/lie_type_sl2'
+abstract: >-
+  Supplementary code for the paper "SL2-factorizations for
+  groups of Lie type"
