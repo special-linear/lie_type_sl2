@@ -2,7 +2,9 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: Lie_type_sl2
+title: >-
+  Supplementary code for the paper "SL2-factorizations for
+  groups of Lie type"
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
